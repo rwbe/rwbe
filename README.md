@@ -9,8 +9,6 @@
 - 💬 Você pode falar comigo pelo E-mail, Twitter ou Discord ...
 - 📫 Conheça meus projetos desenvolvidos, disponíveis nos repositórios =)
 
-<img align="right" alt="Rw-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/513410933390049282/1006068428643246160/Rw-pic.png?width=676&height=676">
-
 <div align="center">
   <a href="https://github.com/rwbe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rwbe&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -25,7 +23,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rw-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/513410933390049282/1006068428643246160/Rw-pic.png?width=676&height=676">
 </div>
 
 ### Contatos:
