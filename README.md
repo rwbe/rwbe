@@ -1,6 +1,9 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c8eda&height=180&section=header&text=BEM-VINDO!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
+<details>
+    <summary>
+	    👈 <img src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7-Vers%C3%A3o%20em%20Portugu%C3%AAs-green" />
+    </summary>
 ## Olá! Meu nome é Ricardo Willian 👋
 
 <img align="right" alt="Rw-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/513410933390049282/1006068428643246160/Rw-pic.png?width=676&height=676">
