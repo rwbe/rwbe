@@ -48,14 +48,14 @@
   <a href = "mailto:rwbemiliano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ricardo-willian-0b4a8b80/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/rwbemiliano" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
- 
+        </div>
   ![Snake Game](https://github.com/rwbe/rwbe/blob/output/github-contribution-grid-snake.svg)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c8eda&height=120&section=footer"/>
 	
 	<summary>
         👈 <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-English%20Version-critical" />
     </summary>
-	</div>
+	
 ## Hello! My name is Ricardo Willian 👋
 
 <img align="right" alt="Rw-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/513410933390049282/1006068428643246160/Rw-pic.png?width=676&height=676">
