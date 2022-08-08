@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c8eda&height=180&section=header&text=BEM-VINDO&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c8eda&height=180&section=header&text=BEM-VINDO!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 ## Olá! Meu nome é Ricardo Willian 👋
 
