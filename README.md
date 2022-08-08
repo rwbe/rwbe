@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Bem-Vindo&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c8eda&height=180&section=header&text=Bem-Vindo&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 ### Olá! Meu nome é Ricardo Willian 👋
 
@@ -42,5 +42,5 @@
   <a href="https://twitter.com/rwbemiliano" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
  
   ![Snake Game](https://github.com/rwbe/rwbe/blob/output/github-contribution-grid-snake.svg)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c8eda&height=120&section=footer"/>
 </div>
