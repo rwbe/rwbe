@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Matheus Maia Alvarez&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 ### Olá! Meu nome é Ricardo Willian 👋
 
