@@ -8,7 +8,7 @@
 	
 ## Olá! Meu nome é Ricardo Willian 👋
 
-<img align="right" alt="Rw-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/513410933390049282/1006068428643246160/Rw-pic.png?width=676&height=676">
+<img align="right" alt="Rw-pic2" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/513411269965905940/1006350227080482906/Rw-pic2.png?width=676&height=676">
 
 - 🔭 Hoje trabalho com desenvolvimento de softwares, criação de sites e banco de dados ...
 - 🌱 Estudando JavaScript, Angular e Typescript ...
