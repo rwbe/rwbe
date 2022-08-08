@@ -12,7 +12,7 @@
 - 💬 Você pode falar comigo pelo E-mail, Twitter ou Discord ...
 - 📫 Conheça meus projetos desenvolvidos, disponíveis nos repositórios =)
 
-## 📊 Minhas Estatísticas:
+## 📊 Minhas Estatísticas | My Stats:
 
 <div align="center">
   <a href="https://github.com/rwbe">
