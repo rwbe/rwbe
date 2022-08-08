@@ -1,5 +1,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c8eda&height=180&section=header&text=BEM-VINDO!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+</details>
 <details>
     <summary>
 	    👈 <img src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7-Vers%C3%A3o%20em%20Portugu%C3%AAs-green" />
