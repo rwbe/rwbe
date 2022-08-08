@@ -8,7 +8,6 @@
 <br />
 	
 Olá! Meu nome é Ricardo Willian 👋
-<br /><br />
 <hr />
 <img align="right" alt="Rw-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/513410933390049282/1006068428643246160/Rw-pic.png?width=676&height=676">
 
