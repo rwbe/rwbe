@@ -12,6 +12,8 @@
 - 💬 Você pode falar comigo pelo E-mail, Twitter ou Discord ...
 - 📫 Conheça meus projetos desenvolvidos, disponíveis nos repositórios =)
 
+## 📊 Minhas Estatísticas:
+
 <div align="center">
   <a href="https://github.com/rwbe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rwbe&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
