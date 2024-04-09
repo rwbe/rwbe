@@ -1,27 +1,5 @@
-<div align="center" id="banner1">
-  <img height="265" src="https://imgur.com/oL1CXio.png" />
-</div>
-
-<div align="center" id="banner2" style="display: none;">
-  <img height="265" src="https://imgur.com/2kZ8VVR.png" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <a href="#" onclick="showBanner('banner1'); return false;">Banner 1</a>
-  <span> | </span>
-  <a href="#" onclick="showBanner('banner2'); return false;">Banner 2</a>
-</div>
-
-<script>
-  function showBanner(bannerId) {
-    var banners = document.querySelectorAll('[id^="banner"]');
-    banners.forEach(function(banner) {
-      banner.style.display = 'none';
-    });
-    document.getElementById(bannerId).style.display = 'block';
-  }
-</script>
-
+[![Banner 1](https://imgur.com/oL1CXio.png)](https://www.github.com/banner1)
+[![Banner 2](https://imgur.com/2kZ8VVR.png)](https://www.github.com/banner2)
 
 
 ###
