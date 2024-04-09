@@ -7,9 +7,9 @@
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <a href="#" onclick="showBanner('banner1')">Banner 1</a>
+  <a href="#" onclick="showBanner('banner1'); return false;">Banner 1</a>
   <span> | </span>
-  <a href="#" onclick="showBanner('banner2')">Banner 2</a>
+  <a href="#" onclick="showBanner('banner2'); return false;">Banner 2</a>
 </div>
 
 <script>
@@ -19,9 +19,9 @@
       banner.style.display = 'none';
     });
     document.getElementById(bannerId).style.display = 'block';
-    return false; // Prevents following the link
   }
 </script>
+
 
 
 ###
