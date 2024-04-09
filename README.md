@@ -5,17 +5,13 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rwbe/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/rwbe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </a> 
+ <a href="https://www.x.com/rwbemiliano" target="_blank"><img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
   </a>
-  <a href="https://twitter.com/rwbemiliano" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X/Twitter&logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="x/twitter logo"  />
+ <a href="https://discord.gg/EXfUHevtuH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   </a>
-  <a href="https://discord.gg/EXfUHevtuH" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-  </a>
-  <a href="mailto:rwbemiliano@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  <a href = "mailto:rwbemiliano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-DB4A39?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
 
