@@ -1,6 +1,28 @@
-<div align="center">
-  <img height="265" src="https://imgur.com/96J6DnC.gif"  />
+<div align="center" id="banner1">
+  <img height="265" src="https://imgur.com/oL1CXio.png" />
 </div>
+
+<div align="center" id="banner2" style="display: none;">
+  <img height="265" src="https://imgur.com/2kZ8VVR.png" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <a href="#" onclick="showBanner('banner1')">Banner 1</a>
+  <span> | </span>
+  <a href="#" onclick="showBanner('banner2')">Banner 2</a>
+</div>
+
+<script>
+  function showBanner(bannerId) {
+    var banners = document.querySelectorAll('[id^="banner"]');
+    banners.forEach(function(banner) {
+      banner.style.display = 'none';
+    });
+    document.getElementById(bannerId).style.display = 'block';
+    return false; // Prevents following the link
+  }
+</script>
+
 
 ###
 
