@@ -1,5 +1,8 @@
 <div align="center">
-  <img height="265" src="https://imgur.com/HGnMTGq.gif"  />
+  <video autoplay muted loop height="265">
+    <source src="https://imgur.com/bF50b3h" type="video/mp4">
+    Seu navegador não suporta a reprodução de vídeo.
+  </video>
 </div>
 
 ###
