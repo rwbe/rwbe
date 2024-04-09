@@ -1,106 +1,74 @@
+<div align="center">
+  <img height="350" src="https://imgur.com/5rfdtTz.png"  />
+</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=db2534&height=180&section=header&text=BEM-VINDO!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
-<details open>
-    <summary>
-	    👈 <img src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7-Vers%C3%A3o%20em%20Portugu%C3%AAs-informational" />
-    </summary>
-	
-## Olá! Meu nome é Ricardo Willian 👋
-
-<img align="right" alt="Rw-pic2" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/513411269965905940/1006351944337592351/Rw-pic2.png?width=676&height=676">
-
-- 🔭 Hoje trabalho com desenvolvimento de softwares, criação de sites e banco de dados ...
-- 🌱 Estudando JavaScript, Angular e Typescript ...
-- 👯 Procuro colabolar em projetos, sempre disposto a ajudar  ...
-- 🤔 Sonhador, apaixonado em tecnologia e determinado ...
-- 💬 Você pode falar comigo pelo E-mail, Twitter ou Discord ...
-- 📫 Conheça meus projetos desenvolvidos, disponíveis nos repositórios =)
-
-## 📊 Minhas Estatísticas:
+###
 
 <div align="center">
-  <a href="https://github.com/rwbe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rwbe&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwbe&layout=compact&langs_count=7&theme=github_dark"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rwbe.rwbe&right_color=coral"  />
 </div>
 
- ## 🖥️ Ferramentas e Tecnologias:
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-
-## 📱 Contatos:
-
-<div>
-<a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rwbefps" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/7tzRQf7T" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:rwbemiliano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricardo-willian-0b4a8b80/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/rwbemiliano" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-       
-  ![Snake Game](https://github.com/rwbe/rwbe/blob/output/github-contribution-grid-snake.svg)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=db2534&height=120&section=footer"/>
-</div>
-	<details>
-	<summary>
-        👈 <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-English%20Version-critical" />
-    </summary>
-    <br />
-	
-## Hello! My name is Ricardo Willian 👋
-
-<img align="right" alt="Rw-pic2" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/513410933390049282/1006068428643246160/Rw-pic.png?width=676&height=676">
-
-- 🔭 Today I work with software development, website and database creation. ...
-- 🌱 Studying JavaScript, Angular and Typescript ...
-- 👯 I try to collaborate on projects, always willing to help  ...
-- 🤔 Dreamer, passionate about technology and determined ...
-- 💬 You can contact me via Email, Twitter or Discord ...
-- 📫 Discover my developed projects, available in the repositories =)
-	 
-## 📊 My Stats:
+###
 
 <div align="center">
-  <a href="https://github.com/rwbe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rwbe&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwbe&layout=compact&langs_count=7&theme=github_dark"/>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
-## 🖥️ Tools and Technologies:
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+###
+
+<h3 align="left">👩‍💻  Sobre mim</h3>
+
+###
+
+<p align="left">Sou um entusiasta da tecnologia e apaixonado por programação e desenvolvimento de software. Comprometido em expandir meu conhecimento e habilidades no vasto universo da computação, estou sempre em busca de novas oportunidades de aprendizado e desafios estimulantes.<br><br>Desde o meu interesse inicial pela programação, tenho explorado uma ampla gama de linguagens e tecnologias, buscando compreender os bastidores das interfaces que fazem parte do nosso cotidiano. Estou aberto a novas experiências e constantemente me esforço para aprimorar minhas habilidades.<br><br>Além do código, valorizo a colaboração e o compartilhamento de conhecimento. Acredito firmemente que o crescimento profissional é impulsionado pela troca de experiências com outros desenvolvedores e pela participação em projetos colaborativos.<br><br>Neste perfil do GitHub, você encontrará uma diversidade de projetos nos quais tenho trabalhado, desde pequenos scripts até aplicações mais complexas. Fique à vontade para explorar, contribuir e deixar seus comentários. Juntos, podemos criar soluções incríveis e impulsionar a inovação na comunidade de desenvolvimento de software.</p>
+
+###
+
+<h3 align="left">🛠 Linguagens, Ferramentas e Frameworks</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 </div>
 
-## 📱 Contacts:
+###
 
-<div>
-<a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rwbemiliano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rwbefps" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/7tzRQf7T" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:rwbemiliano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricardo-willian-0b4a8b80/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/rwbemiliano" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
- 
-  ![Snake Game](https://github.com/rwbe/rwbe/blob/output/github-contribution-grid-snake.svg)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c8eda&height=120&section=footer"/>
+<h3 align="left">🔥   Minhas Estatísticas:</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rwbe&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-	 
-	 
+
+###
