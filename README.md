@@ -1,6 +1,6 @@
-[![Banner 1](https://imgur.com/oL1CXio.png)](https://www.github.com/banner1)
-[![Banner 2](https://imgur.com/2kZ8VVR.png)](https://www.github.com/banner2)
-
+<div align="center" id="banner1">
+  <img height="265" src="https://imgur.com/96J6DnC.gif" />
+</div>
 
 ###
 
