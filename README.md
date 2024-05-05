@@ -1,5 +1,5 @@
 <div align="center" id="banner1">
-  <img height="265" src="https://imgur.com/oL1CXio.png" />
+  <img max-width="500px" src="https://imgur.com/oL1CXio.png" />
 </div>
 
 ###
