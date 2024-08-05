@@ -71,7 +71,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/rwbe/rwbe/output/snake.svg" alt="Snake animation" />
-
-###
