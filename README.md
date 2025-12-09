@@ -1,5 +1,5 @@
 <div align="center" id="github_banner">
-  <img max-width="500px" src="https://imgur.com/a/2U6QDk1" />
+  <img max-width="500px" src="https://imgur.com/vDM6akq" />
 </div>
 
 ###
