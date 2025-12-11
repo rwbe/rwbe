@@ -49,10 +49,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rwbe&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=apprentice&hide_border=true&order=2" height="170" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=rwbe&locale=pt-br&mode=daily&theme=apprentice&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rwbe/stats-generator/main/cards/overview.svg" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/rwbe/stats-generator/main/cards/languages.svg" alt="Top Languages" />
+</p>
 
 ###
 
